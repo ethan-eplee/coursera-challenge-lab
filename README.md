@@ -1,4 +1,4 @@
-![Certificate](https://github.com/ethan-epleecoursera-challenge-lab/blob/main/certificate.jpg)
+![Certificate](https://github.com/ethan-eplee/coursera-challenge-lab/blob/main/certificate.jpg)
 
 **Introduction**
 
